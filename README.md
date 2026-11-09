@@ -6,4 +6,4 @@ publiée pour les testeurs sur GitHub Pages : **https://4ysdad.github.io/feuille
 Le code source est privé. Ne modifiez pas ce dépôt à la main : il est remplacé à chaque
 publication par `tool/publier_web.sh`.
 
-Version 1.0.0+1 · source 67ac4d0
+Version 1.0.0+1 · source e32c10a
